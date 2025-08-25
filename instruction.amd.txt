@@ -1,0 +1,59 @@
+ENG:
+
+Instructions on how to download and play Portal: Java Edition
+
+Installation:
+1. Use Fabric 1.21.1 (v0.17.2).
+2. Copy the modpack to .minecraft/mods
+3. Download mappacks from the website and unzip them to .minecraft/saves
+4. Copy the resourcepack to .minecraft/resourcepacks
+5. Put the resourcepack to the top in the active resourcepack list.
+
+After that you good to go and open up the game! Dont forget to up your RAM for Minecraft in case it does not open and crashes.
+
+Use the following settings:
+Graphic: Fabulous!
+Render distance - 3 chunks
+Simulation - 5 chunks
+Entity distance - 500%
+Fog occlusion - off
+Fov effects (Accesibility Settings) - 0%
+
+Controls:
+F - Pick up an object/interaction
+Q - Open the custom menu
+
+Pressing QUIT in custom menu will crash your game, it is intentional.
+
+DO NOT PRESS E OR F5 WHILE IN PLAY MODE 
+
+======================================================
+
+RU:
+
+Инструкция по установке и игре в Portal: Java Edition
+
+Установка:
+1. Используйте Фабрик 1.21.1 (v0.17.2).
+2. Скопируйте модпак на оптимизацию в папку .minecraft/mods
+3. Скачайте маппаки с сайта и переместите их в папку .minecraft/saves
+4. Скопируйте ресурспак в папку .minecraft/resourepacks
+5. Поставьте ресурспак в самый верх списка активных ресурспаков.
+
+Необходимо выставить следующие настройки в игре:
+Графика: потрясающе!
+Прорисовка - 3 чанка
+Симуляция - 5 чанков
+До сущности - 500%
+Fog occlusion - выкл
+Эффекты поля зрения (Специальные возможности) - 0%
+
+После этого можно открывать игру! Не забудьте выделить больше ОЗУ для Майнкрафта в случае если он не открывается и/или крашится.
+
+Управление:
+F - Поднять/отпустить предмет и взаимодействие
+Q - Открыть кастомное меню
+
+Нажатие на кнопку QUIT в кастомном меню крашнет вашу игру, это так и задумано.
+
+НЕ НАЖИМАЙТЕ E ИЛИ F5 ПОКА ВЫ В РЕЖИМЕ ИГРОКА
