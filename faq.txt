@@ -1,0 +1,67 @@
+ENG:
+
+Q: How long did it take?!
+A: 5 years.
+
+Q: Will I be able to play this on Bedrock?
+A: No. We will not make a Bedrock port.
+
+Q: Will I be able to make my own maps?
+A: Yes.
+
+Q: How did you even make ALL of this?
+A: Pain, dedication and A LOT of work.
+
+Q: multiplayer/co-op/2 players will work?
+A: No, not on release, and very small chance it will later.  The way datapack 
+   works now makes it impossible to play with more than one player.
+
+Q: What mods in the build actually do?
+A: Optimization.
+
+Q: What do I do if the resource pack doesn't load?
+A: Try installing the AMD compatibility version of the resource pack and the corresponding modpack. 
+   If that didn't help, send the log file (.minecraft/logs/latest.log) in our Discord server.
+
+Q: What are the controls? How do I click a button in the main menu? How do I pickup a cube?
+A: In the main menu, use scroll wheel to switch between buttons and Left Click to click a button. 
+   In-game, use F key to interact with buttons/cubes/cameras, and Q to open the pause menu.
+
+Q: I can't seem to pickup a cube, I am using the F key but it still doesn't work.
+A: Try to raise your camera higher. We can't fix this for now because otherwise you 
+   would be able to pickup blocks through thin walls, which allows for exploiting levels.
+  
+===========================================================================================================
+
+RU:
+
+Q: Как долго заняла разработка?
+A: 5 лет.
+
+Q: А на Бедроке поиграть можно будет?
+A: Нет. Мы данный проект портировать на Бэдрок не собираемся.
+
+Q: А свои карты создавать можно будет?
+A: Да.
+
+Q: А как у вас вообще вот это вот все вышло?
+A: Боль, упорность и КУЧА работы.
+
+Q: А мультилпдеер/с другом/ на сервере будет работать?
+A: Нет. Не на релизе уж точно, и скорее всего нет и позже. То как 
+   написан датапак сейчас не позволяет играть в него вдвоем.
+
+Q: Что делают моды в сборке?
+A: Оптимизация.
+
+Q: Что делать, если ресурспак не загружается?
+A: Попробуйте поставить версию ресурспака с поддержкой AMD и специальный модпак. 
+   Если это не помогло, отправьте логи (.minecraft/logs/latest.log) в наш Дискорд сервер.
+
+Q: Какое тут управление? Как нажать что-либо в главном меню? Как поднять куб?
+А: В главном меню, используйте колёсико мыши для переключения между кнопками и левую кнопку мыши, чтоб нажать. 
+   В игре используйте клавишу F для взаимодействия с кнопками/кубами/камерами, и Q для открытия меню паузы.
+
+Q: Не получается поднять куб, использую клавишу F и все равно не выходит.
+А: Попробуйте поднять вашу камеру чуть выше. Мы пока не можем исправить это, потому что иначе 
+   вы сможете брать кубы через тонкие стены, что даст возможность багоюзить уровни.
