@@ -1,0 +1,63 @@
+ENG:
+
+Instructions on how to download and play Portal: Java Edition
+
+Installation:
+1. Use VANILLA MINECRAFT 1.21.1 or Fabric 1.21.1 (v0.17.2) if you want the optimization modpack.
+2. (OPTIONAL) Copy the optimization modpack to .minecraft/mods
+3. Download mappacks from the website and unzip them to .minecraft/saves
+4. Copy the resourcepack to .minecraft/resourcepacks
+5. Put the resourcepack to the top in the active resourcepack list.
+
+Mods we use are for optimization purposes, you can play without those. But it may go hard on your PC in that case.
+
+After that you good to go and open up the game! Dont forget to up your RAM for Minecraft in case it does not open and crashes.
+
+Use the following settings:
+Graphic: Fabulous!
+Render distance - 3 chunks
+Simulation - 5 chunks
+Entity distance - 500%
+Fog occlusion - off
+Fov effects (Accesibility Settings) - 0%
+
+Controls:
+F - Pick up an object/interaction
+Q - Open the custom menu
+
+Pressing QUIT in custom menu will crash your game, it is intentional.
+
+DO NOT PRESS E OR F5 WHILE IN PLAY MODE 
+
+======================================================
+
+RU:
+
+Инструкция по установке и игре в Portal: Java Edition
+
+Установка:
+1. Используйте Ванильный Майнкрафт 1.21.1 или Фабрик 1.21.1 (v0.17.2) в случае если вы нуждаетесь в модпаке на оптимизацию.
+2. (НЕОБЯЗАТЕЛЬНО) Скопируйте модпак на оптимизацию в папку .minecraft/mods
+3. Скачайте маппаки с сайта и переместите их в папку .minecraft/saves
+4. Скопируйте ресурспак в папку .minecraft/resourepacks
+5. Поставьте ресурспак в самый верх списка активных ресурспаков.
+
+Моды, находящиеся в паке необязательны и используются только в целях оптимизации, играть можно и без них, но это может быть тяжко для ПК.
+
+Необходимо выставить следующие настройки в игре:
+Графика: потрясающе!
+Прорисовка - 3 чанка
+Симуляция - 5 чанков
+До сущности - 500%
+Fog occlusion - выкл
+Эффекты поля зрения (Специальные возможности) - 0%
+
+После этого можно открывать игру! Не забудьте выделить больше ОЗУ для Майнкрафта в случае если он не открывается и/или крашится.
+
+Управление:
+F - Поднять/отпустить предмет и взаимодействие
+Q - Открыть кастомное меню
+
+Нажатие на кнопку QUIT в кастомном меню крашнет вашу игру, это так и задумано.
+
+НЕ НАЖИМАЙТЕ E ИЛИ F5 ПОКА ВЫ В РЕЖИМЕ ИГРОКА
