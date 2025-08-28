@@ -4,7 +4,7 @@ Instructions on how to download and play Portal: Java Edition
 
 Installation:
 1. Use Fabric 1.21.1 (v0.17.2).
-2. Copy the modpack to .minecraft/mods
+2. Copy all .jar files from the modpack to .minecraft/mods
 3. Download mappacks from the website and unzip them to .minecraft/saves
 4. Copy the resourcepack to .minecraft/resourcepacks
 5. Put the resourcepack to the top in the active resourcepack list.
@@ -35,7 +35,7 @@ RU:
 
 Установка:
 1. Используйте Фабрик 1.21.1 (v0.17.2).
-2. Скопируйте модпак на оптимизацию в папку .minecraft/mods
+2. Скопируйте все .jar файлы из модпака в папку .minecraft/mods
 3. Скачайте маппаки с сайта и переместите их в папку .minecraft/saves
 4. Скопируйте ресурспак в папку .minecraft/resourepacks
 5. Поставьте ресурспак в самый верх списка активных ресурспаков.
